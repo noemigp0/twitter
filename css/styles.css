@@ -1,0 +1,35 @@
+*{
+   
+    color: white;
+   
+}
+
+body{
+    background-color: black;
+}
+.container {
+    outline: solid red;
+    padding: 1em; 
+}
+
+.row {
+    outline: solid blue;
+    padding: 1em;
+}
+
+.col {
+    outline: solid green;
+    min-height: 50px;
+}
+
+.svg{
+    color: white;
+   
+}
+
+
+.cards{
+    background-color: black;
+    color: white;
+}
+
